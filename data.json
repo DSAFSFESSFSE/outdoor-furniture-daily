@@ -1,7 +1,167 @@
 {
- "generatedAt": "2026-11-04",
- "latest": "2026-11-04",
+ "generatedAt": "2026-11-05",
+ "latest": "2026-11-05",
  "days": [
+  {
+   "date": "2026-11-05",
+   "items": [
+    {
+     "text": "【单椅】VINGLI 超大户外摇椅（薄荷绿） 全实木框架 + 竖条靠背 + 加厚米白坐垫，弧形摇底，承重 350 lbs，适合门廊/露台",
+     "price": "$59.99",
+     "link": "",
+     "asin": "B0HD5F5P9Y",
+     "cat": "单椅",
+     "brand": "VINGLI",
+     "rank": 14,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/61TjrSg8bRL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71mz5Gn5mmL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】MEWAY 户外餐椅 4 件套（黑） 20 英寸加宽高背 Textilene 透气网布 + 黑钢圆管弧形扶手，可整叠收纳",
+     "price": "$119.99",
+     "link": "",
+     "asin": "B0HHM9KXLR",
+     "cat": "椅子",
+     "brand": "MEWAY",
+     "rank": 17,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/61XKILYmmDL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81VXa7ZgHoL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】ARKOST 户外餐椅 2 件套（棕网布） 金属方管框架 + Textilene 透气网布座背 + 加宽扶手，可叠放，庭院/阳台通用",
+     "price": "$69.00",
+     "link": "",
+     "asin": "B0H7S1HNTJ",
+     "cat": "椅子",
+     "brand": "ARKOST",
+     "rank": 27,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91gfR2WFM3L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71DHjamM7eL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】Kullavik 户外餐椅 4 件套（灰褐） 高背透气网布 + 黑钢架，可整叠省空间，免工具组装",
+     "price": "$79.00",
+     "link": "",
+     "asin": "B0HKHZ58S7",
+     "cat": "椅子",
+     "brand": "Kullavik",
+     "rank": 26,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81K6D2pOTlL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91o6adanDlL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【单椅】NicBex 电动躺椅（棕） 遥控 90°–160° 无级调节 + USB/Type-C 接口，布艺软包，客厅/阳光房两用",
+     "price": "$234.99",
+     "link": "",
+     "asin": "B0HHM5J19Z",
+     "cat": "单椅",
+     "brand": "NicBex",
+     "rank": 23,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91cfQ8hh8UL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71kn2q1I8tL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Vexwalx 11 座铝制 L 型转角沙发（石墨灰+柚木扶手） 全铝框 + 实木扶手盖板 + 深灰防水坐垫，含 2 张双人位 + 单人位 + 茶几",
+     "price": "$1217.99",
+     "link": "",
+     "asin": "B0HM84XKN3",
+     "cat": "沙发",
+     "brand": "Vexwalx",
+     "rank": 16,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81gNc2O89LL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71DVU-8wWiL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】ComfCove 铝制 4 件套沙发（深灰框+浅灰垫） 铝框 + 木纹扶手，含三人位 + 2 单椅 + 茶几，6 英寸厚垫，防锈免维护",
+     "price": "$669.99",
+     "link": "",
+     "asin": "B0HM3C4DBS",
+     "cat": "沙发",
+     "brand": "ComfCove",
+     "rank": 27,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81rBlTklZTL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/714Atlu9tRL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】FITMORARO 4 件套沙发（黑垫） 黑钢框 + 木纹板条扶手 + 黑色玻璃茶几，含双人位 + 2 单椅，深座软包",
+     "price": "$299.99",
+     "link": "",
+     "asin": "B0HF346BG2",
+     "cat": "沙发",
+     "brand": "FITMORARO",
+     "rank": 10,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/718LgzcZ7rL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/8147yNprThL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】COMLAX FIELD 3 件套沙发（米色） 铝合金/钢混构 + 6 英寸加厚防水坐垫，含三人位 + 2 单椅，承重 350 lbs",
+     "price": "$659.99",
+     "link": "",
+     "asin": "B0H69WZTKL",
+     "cat": "沙发",
+     "brand": "COMLAX",
+     "rank": 26,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81+KvOOymaL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71w+JXR3-+L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Christopher Knight Ayla 5 座柚木沙发组（米白垫） 实木柚木框 + 绳编侧板 + 2 张旋转单椅，奶油色防水垫，度假酒店风",
+     "price": "$1485.99",
+     "link": "",
+     "asin": "B0HGLXZM1H",
+     "cat": "沙发",
+     "brand": "Christopher",
+     "rank": 23,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91Vcehvm98L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/711M91dnC2L._AC_SL1500_.jpg"
+     ]
+    }
+   ],
+   "count": 10,
+   "nChair": 5,
+   "nSofa": 5,
+   "nImg": 20,
+   "note": "椅类榜 Top30 剔 25 条（标题层藤编/仿藤 8、零重力与加热零重力 4、折叠露营 2、日光浴/泳池躺椅 2、室内电动升降躺椅 2、与 11-02～11-04 重复及外观撞形 7），存活 5 椅；沙发榜 Top30 剔 25 条（标题层藤编/仿藤 21、藤编黑名单复验 1 Aoxun、同族外观撞形 2、非组合躺椅套 1），存活 5 沙发组。最终 5 椅 + 5 沙发组（整套优先）。椅类存活项耗尽，Papasan 蛋椅 3 款与叠放餐椅、旋转椅、阿迪朗达克熟面孔一并剔除，只保留 5 款不同形态；沙发侧剔除同族的 ComfCove GPH 与 Vakollia 4 件套，改取 Vexwalx 11 座 L 型、ComfCove 4 件套、FITMORARO 4 件套、COMLAX 3 件套、Christopher Knight Ayla 柚木 5 座，材质覆盖铝框、钢架、实木柚木与绳编侧板。图片来源为商品详情页 hiRes 直链，每条 2 张，20/20 实测 200。"
+  },
   {
    "date": "2026-11-04",
    "items": [
