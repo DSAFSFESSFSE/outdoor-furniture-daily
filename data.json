@@ -1,7 +1,167 @@
 {
- "generatedAt": "2026-11-05",
- "latest": "2026-11-05",
+ "generatedAt": "2026-11-06",
+ "latest": "2026-11-06",
  "days": [
+  {
+   "date": "2026-11-06",
+   "items": [
+    {
+     "text": "【椅子】RTDTD 户外餐椅 4 件套（灰黑） 可叠放，Textilene 透气网布 + 深灰粉末涂层铁架，单椅承重 400 lbs，适合庭院/露台/泳池边",
+     "price": "$85.99",
+     "link": "",
+     "asin": "B0HK3NPJR7",
+     "cat": "椅子",
+     "brand": "RTDTD",
+     "rank": 18,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81R8yKpvl6L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91BUWaETh9L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】Betterhood 户外旋转餐椅 4 件套（米棕软垫） 360° 旋转 + 15° 摇动，高背加厚软包，透气面料，金属框架，适合庭院/露台聚餐",
+     "price": "$329.99",
+     "link": "",
+     "asin": "B0HHCNB1R4",
+     "cat": "椅子",
+     "brand": "Betterhood",
+     "rank": 23,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81CML0iTTDL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81WicEWFj0L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【单椅】CIOKEA 4 合 1 阿迪朗达克摇椅（黑 HDPE） 可在阿迪朗达克椅/摇椅/带抽拉脚踏的躺椅/折叠椅间切换，带杯托，2 件套",
+     "price": "$289.99",
+     "link": "",
+     "asin": "B0HCY2D2PY",
+     "cat": "单椅",
+     "brand": "CIOKEA",
+     "rank": 26,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71G-Y3-WzEL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71iUYHFDWoL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】SERWALL HDPE 可叠放阿迪朗达克椅 2 件套（蓝） 耐候 HDPE 板材，可叠放省空间，抗褪色开裂，适合门廊/露台/后院",
+     "price": "$149.99",
+     "link": "",
+     "asin": "B0HDBF2Z67",
+     "cat": "椅子",
+     "brand": "SERWALL",
+     "rank": 28,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/718dtymOhbL._AC_SL1254_.jpg",
+      "https://m.media-amazon.com/images/I/71GQRzqRGaL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【单椅】Garvee Papasan 蛋形摇椅（黑） 高密度 PP 棉厚垫 + 涤纶/牛津布套，450 lb 钢架，弧形摇底，室内外两用",
+     "price": "$80.99",
+     "link": "",
+     "asin": "B0H7B61ZGR",
+     "cat": "单椅",
+     "brand": "Garvee",
+     "rank": 5,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/810fkOZIapL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61MKkkWwrbL._AC_SL1254_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Jelwaly 4 件套超大铝制沙发组（米色） 含双人沙发 + 双人位 + 2 张 360° 旋转摇椅，6 英寸加厚坐垫，深座高背",
+     "price": "$1699.99",
+     "link": "",
+     "asin": "B0HKVC1JM5",
+     "cat": "沙发",
+     "brand": "Jelwaly",
+     "rank": 15,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91FUGyLhfXL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61hjnKpszfL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Gotland 金属 4 件套沙发组（藏青垫） 全铁架镀锌防锈，含三人位 + 2 单椅 + 茶几，可拆洗坐垫套，适合门廊/后院",
+     "price": "$359.99",
+     "link": "",
+     "asin": "B0H4F63TB7",
+     "cat": "沙发",
+     "brand": "Gotland",
+     "rank": 17,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81XGQ94CGaL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71X28zhiefL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】ComfCove 铝制 L 型沙发组（深灰+木纹扶手） 含转角沙发 + 2 张旋转单椅 + 边几 + 茶几，24.5 英寸加宽深座，防锈铝框",
+     "price": "$949.99",
+     "link": "",
+     "asin": "B0HKVFVYMK",
+     "cat": "沙发",
+     "brand": "ComfCove",
+     "rank": 3,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81g4eXqGY6L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71XuGkII5mL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Vexwalx 8 座铝制 L 型转角沙发（浅灰+木纹扶手） 含 L 型主沙发 + 茶几，23.6 英寸座宽/25.2 英寸座深，适合后院/露台聚会",
+     "price": "$983.24",
+     "link": "",
+     "asin": "B0HM7WVNM5",
+     "cat": "沙发",
+     "brand": "Vexwalx",
+     "rank": 21,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81+FpZEqBIL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71+4Hjxcm1L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Vakollia 4 件套豪华铝制沙发组（米色） 含 2 张沙发 + 2 张单椅 + 茶几，6 英寸加厚防水坐垫，全铝框深座设计",
+     "price": "$1393.18",
+     "link": "",
+     "asin": "B0HJ8L7529",
+     "cat": "沙发",
+     "brand": "Vakollia",
+     "rank": 18,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/811J9YA+H6L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/715BWJQlXGL._AC_SL1500_.jpg"
+     ]
+    }
+   ],
+   "count": 10,
+   "nChair": 5,
+   "nSofa": 5,
+   "nImg": 20,
+   "note": "椅类榜 Top30 剔 25 条（标题层藤编/仿藤 6、零重力 4、折叠露营 1、室内电动升降与厨房餐椅 3、Papasan 蛋椅外观重复 4、与 11-03～11-05 重复或同族撞形 7），存活 5 椅；沙发榜 Top30 剔 25 条（标题层藤编/仿藤 22、藤编黑名单复验 1 Aoxun、详情页复验藤编 1 VELSCAPE、与 11-05 重复 1 FITMORARO），存活 5 沙发组。最终 5 椅 + 5 沙发组（整套优先）。全新面孔 4 款：RTDTD 叠放餐椅、Betterhood 旋转餐椅、CIOKEA 4 合 1 阿迪朗达克摇椅、Jelwaly 超大铝制沙发组；其余为榜内轮换的熟面孔，按真实排名收录。材质以铁架、铝框、HDPE 与实木为主，无藤编。图片为商品详情页 hiRes 直链，每条 2 张，20/20 实测 200。"
+  },
   {
    "date": "2026-11-05",
    "items": [
