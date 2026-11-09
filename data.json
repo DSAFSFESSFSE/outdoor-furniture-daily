@@ -1,7 +1,167 @@
 {
- "generatedAt": "2026-11-06",
- "latest": "2026-11-06",
+ "generatedAt": "2026-11-09",
+ "latest": "2026-11-09",
  "days": [
+  {
+   "date": "2026-11-09",
+   "items": [
+    {
+     "text": "【椅子】Nuu Garden 户外 C-spring 餐椅 2 件套（灰） C-spring 弹性坐感，透气软包靠背 + 粉末涂层金属架，带扶手，适合庭院/露台餐桌",
+     "price": "$135.99",
+     "link": "",
+     "asin": "B0HHNB9BNV",
+     "cat": "椅子",
+     "brand": "Nuu",
+     "rank": 10,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91BjJL7b+xL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71hg2rsGdbL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】Murago 户外旋转摇椅 2 件套（棕） 360° 旋转 + 摇动，Textilene 透气网布，全天候金属架，适合露台/泳池边",
+     "price": "$99.99",
+     "link": "",
+     "asin": "B0H551J8YJ",
+     "cat": "椅子",
+     "brand": "Murago",
+     "rank": 16,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81RhLDUSN1L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81JtCAzuf+L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【单椅】OLIXIS 超大 Papasan 蛋形摇椅（灰） 5.5 英寸加厚坐垫，450 lbs 承重，金属弧形摇底，室内外两用",
+     "price": "$104.95",
+     "link": "",
+     "asin": "B0HBWCXHC3",
+     "cat": "单椅",
+     "brand": "OLIXIS",
+     "rank": 7,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81ykhgtDkrL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71qasA9UDqL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Grand patio 4 件套户外沙发组（灰） 含双人位 + 2 张单椅 + 茶几，钢架 + olefin 坐垫，适合小庭院/门廊",
+     "price": "$359.99",
+     "link": "",
+     "asin": "B0H5HNWZPY",
+     "cat": "沙发",
+     "brand": "Grand",
+     "rank": 36,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/814DPgJiBTL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91glS3a33NL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】JUNKAI 4 件套网布摇椅沙发组（灰） 含双人沙发 + 2 张摇椅 + 边几，Textilene 透气网布 + 金属架，适合门廊/阳台",
+     "price": "$109.99",
+     "link": "",
+     "asin": "B0HFJ8X2R8",
+     "cat": "沙发",
+     "brand": "JUNKAI",
+     "rank": 38,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81X2+OIUKWL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71rI-RbJhjL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Sweecci 11 件套铝制沙发组（亮蓝垫） 2 张三人沙发 + 4 张旋转摇椅 + 2 边几 + 茶几，5.1 英寸厚垫，全铝架",
+     "price": "$1859.00",
+     "link": "",
+     "asin": "B0H4V65LNX",
+     "cat": "沙发",
+     "brand": "Sweecci",
+     "rank": 55,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91oYfIty-IL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81ukh-b-XoL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Christopher Knight Sures 5 座相思木 4 件套（绿垫） 实木相思木框架 + 可拆洗坐垫，含三人沙发 + 2 单椅 + 茶几，适合庭院",
+     "price": "$780.99",
+     "link": "",
+     "asin": "B0GVMSNXBN",
+     "cat": "沙发",
+     "brand": "Christopher",
+     "rank": 58,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/9136FcbXGRL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/711M91dnC2L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】SUNBURY 3 件套摇椅组合（米垫） 2 张金属摇椅 + 边几，可拆洗米色坐垫，适合门廊/小院/阳台",
+     "price": "$189.99",
+     "link": "",
+     "asin": "B0H98CHPD3",
+     "cat": "沙发",
+     "brand": "SUNBURY",
+     "rank": 53,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91P6RA9QuAL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71K2+vm4gGL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】PIZZELLO 7 件套铝制火盆餐桌组 60 英寸火盆桌（50,000 BTU）+ 6 张可叠放网布椅，铝制框架，适合庭院聚餐",
+     "price": "$499.99",
+     "link": "",
+     "asin": "B0HFMPDKYG",
+     "cat": "沙发",
+     "brand": "PIZZELLO",
+     "rank": 37,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91DqCJDqnwL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81kxV81aQ5L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】ADRERIC 铝制 4 件套沙发组（深灰） 含双人沙发 + 2 张单椅 + 木纹茶几，铝架 + 可拆洗厚垫，适合庭院/露台",
+     "price": "$499.98",
+     "link": "",
+     "asin": "B0H9XF25HC",
+     "cat": "沙发",
+     "brand": "ADRERIC",
+     "rank": 19,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81-u8YJ4nxL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81leqZHs+UL._AC_SL1500_.jpg"
+     ]
+    }
+   ],
+   "count": 10,
+   "nChair": 3,
+   "nSofa": 7,
+   "nImg": 20,
+   "note": "椅类榜 Top30 剔 27 条（标题层藤编/仿藤、零重力与折叠露营、日光浴躺椅、室内电动升降躺椅、与 11-06 重复及外观撞形），存活 3 椅；沙发榜 Top30 剔 23 条（标题层藤编/仿藤、藤编黑名单复验、同族外观撞形），存活 7 沙发组。今日两榜均被藤编淹没，按 3 椅 + 7 沙发组收录（整套优先，允许 7+3 配比）。材质以钢/铝、HDPE、相思木、Textilene 网布为主，无藤编。图片为商品详情页 hiRes 直链，每条 2 张，20/20 实测 200。"
+  },
   {
    "date": "2026-11-06",
    "items": [
