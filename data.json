@@ -1,7 +1,167 @@
 {
- "generatedAt": "2026-11-09",
- "latest": "2026-11-09",
+ "generatedAt": "2026-11-10",
+ "latest": "2026-11-10",
  "days": [
+  {
+   "date": "2026-11-10",
+   "items": [
+    {
+     "text": "【单椅】ZUMUSIJN 实木户外摇椅（白） 全实木框架 + 板条座面，高靠背带扶手，350 lbs 承重，适合门廊/阳台/庭院",
+     "price": "$89.99",
+     "link": "",
+     "asin": "B0H5JV2SZH",
+     "cat": "单椅",
+     "brand": "ZUMUSIJN",
+     "rank": 46,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/51Br81xyiCL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81+rPkZ-dML._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】Tangkula 相思木户外餐椅 2 件套 实木相思木，弧形扶手 + 踏脚，板条座面透气，单椅 400 lbs 承重",
+     "price": "$89.99",
+     "link": "",
+     "asin": "B0H75R4CX4",
+     "cat": "椅子",
+     "brand": "Tangkula",
+     "rank": 43,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71BZR-cPsbL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81HYt06VjZL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】Sweecci 金属户外休闲椅 2 件套（灰） 仿木纹 HDPE 扶手 + 铝合金框架，5.1 英寸厚坐垫，单椅 400 lbs 承重",
+     "price": "$209.00",
+     "link": "",
+     "asin": "B0HCCHZYQV",
+     "cat": "椅子",
+     "brand": "Sweecci",
+     "rank": 57,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81EGBGlxa3L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71zX-OSC6vL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】UDPATIO Textilene 户外餐椅 4 件套（棕） 透气 Textilene 网布 + 钢架，23 英寸宽高背，10 分钟快装，适合庭院餐桌",
+     "price": "$149.99",
+     "link": "",
+     "asin": "B0HDK5N63M",
+     "cat": "椅子",
+     "brand": "UDPATIO",
+     "rank": 40,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/814VS2MTLCL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/918UhwJOFcL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【单椅】FLEXISPOT 超大 Papasan 摇椅（灰） 加厚坐垫 + 抱枕，金属框架 + 木质摇底，现代休闲摇椅，适合门廊/阳台",
+     "price": "$159.99",
+     "link": "",
+     "asin": "B0H5JG3W4H",
+     "cat": "单椅",
+     "brand": "FLEXISPOT",
+     "rank": 17,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91pi5ElJCPL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71BmgHWceJL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Polyhouz HDPE 7 件套 L 型沙发组（黑） 6 座模块化设计，HDPE 板条框架，抗晒抗裂，含茶几，适合后院/露台",
+     "price": "$689.99",
+     "link": "",
+     "asin": "B0HHFK3JZD",
+     "cat": "沙发",
+     "brand": "Polyhouz",
+     "rank": 39,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81MsTEao4LL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71fKW3ayr8L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】VINGLI 4 件套实木 L 型沙发组 实木框架 + 聚酯坐垫，L 型转角带内置边几，适合庭院/阳台",
+     "price": "$389.99",
+     "link": "",
+     "asin": "B0H6FYVLX5",
+     "cat": "沙发",
+     "brand": "VINGLI",
+     "rank": 40,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91RXVfzf+HL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71rFL1PqirL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】IDEALHOUSE 4 件套铝制沙发组（浅灰） 铝合金框架 + 厚海绵坐垫，含双人位 + 2 单椅 + 茶几，适合露台/泳池边",
+     "price": "$299.99",
+     "link": "",
+     "asin": "B0HKJZDJXQ",
+     "cat": "沙发",
+     "brand": "IDEALHOUSE",
+     "rank": 45,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91KqntfBuuL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71iufwUua2L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】PHI VILLA 4 件套弧形金属沙发组 半月亮弧形金属框架，4 人位环绕式布局，配厚坐垫，适合庭院会客",
+     "price": "$989.99",
+     "link": "",
+     "asin": "B0HJQRNQY9",
+     "cat": "沙发",
+     "brand": "PHI",
+     "rank": 49,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91RUB-8k4ZL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81wEC3OlC0L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Belord 4 件套铝制旋转摇椅沙发组 全铝框架 + 6 英寸厚垫，含双人位 + 2 张旋转摇椅 + 茶几，适合高端庭院",
+     "price": "$1899.99",
+     "link": "",
+     "asin": "B0HNT5JJXX",
+     "cat": "沙发",
+     "brand": "Belord",
+     "rank": 53,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81rwgWY0DrL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81++9fNre8L._AC_SL1500_.jpg"
+     ]
+    }
+   ],
+   "count": 10,
+   "nChair": 5,
+   "nSofa": 5,
+   "nImg": 20,
+   "note": "椅类榜 Top30 剔 25 条（标题层藤编与仿藤含 rope/woven、零重力与加热按摩躺椅、日光浴与泳池躺椅、室内电动升降躺椅、折叠露营椅、外观撞形），第 2 页补充抓取后存 5 椅；沙发榜 Top30 与第 2 页剔 28 条（藤编/PE Rattan 占多数、含火盆桌与遮阳棚的非纯沙发组、同族外观撞形），存 5 沙发组。视觉复核逐张看主图：CK Yunara 明写 Woven Rope、Jocoevol 含 rope 均剔除；Polyhouz 页面里的 wicker 仅出现在否定句（Unlike traditional wood or wicker）判保留。最终 5 椅 + 5 沙发组，材质为实木/相思木、铝/钢、HDPE、Textilene 网布，无藤编。"
+  },
   {
    "date": "2026-11-09",
    "items": [
