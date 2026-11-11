@@ -1,7 +1,167 @@
 {
- "generatedAt": "2026-11-10",
- "latest": "2026-11-10",
+ "generatedAt": "2026-11-11",
+ "latest": "2026-11-11",
  "days": [
+  {
+   "date": "2026-11-11",
+   "items": [
+    {
+     "text": "【椅子】GREENVINES HDPE 折叠 Adirondack 3 件套（蓝） 2 张折叠 Adirondack 椅 + 1 张边几，真 HDPE 板材 + 304 不锈钢五金，宽扶手带杯托，免维护",
+     "price": "$229.49",
+     "link": "",
+     "asin": "B0H8F3FY63",
+     "cat": "椅子",
+     "brand": "GREENVINES",
+     "rank": 41,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/61dIQ4IJYQL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bUhAxBvbL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】NBYSGO HDPE 户外吧台凳 2 件套（29 英寸） 全天候 HDPE 板条座面 + 金属脚踏，抗晒抗裂，适合吧台/中岛/露台",
+     "price": "$59.39",
+     "link": "",
+     "asin": "B0HMJBBVFT",
+     "cat": "椅子",
+     "brand": "NBYSGO",
+     "rank": 34,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71dvj3AxJ1L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81TamzeSwGL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】APEXGARDA 铝制旋转吧椅 4 件套（30 英寸） 哑光黑粉末涂层铝架 + 灰色坐垫，360° 平滑旋转，配脚踏，适合户外吧台/中岛",
+     "price": "$615.99",
+     "link": "",
+     "asin": "B0HFRDMQFB",
+     "cat": "椅子",
+     "brand": "APEXGARDA",
+     "rank": 54,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81jwhfpR27L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/711QlEM1qHL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】Merax 相思木户外扶手椅 2 件套 实木相思木框架 + 可拆洗米色坐垫，宽扶手，适合庭院/门廊/露台",
+     "price": "$393.85",
+     "link": "",
+     "asin": "B0GMX1FT5X",
+     "cat": "椅子",
+     "brand": "Merax",
+     "rank": 55,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91bDWBGcvvL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91PAW8BV9DL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】SERWALL 户外摇椅 2 件套（藏青） 一体式实心靠背 + 隐藏式抽拉脚踏，户外摇椅，适合门廊/庭院",
+     "price": "$284.99",
+     "link": "",
+     "asin": "B0HFNC9JFT",
+     "cat": "椅子",
+     "brand": "SERWALL",
+     "rank": 60,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/61Mx68NOJXL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71rt97gQ9ZL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】OasbiraGrande 铝制旋转摇椅组 2 件（木纹扶手） 360° 旋转 + 前后摇摆，6 英寸 28D 高密海绵坐垫，单椅 400 lbs，适合庭院会客",
+     "price": "$449.99",
+     "link": "",
+     "asin": "B0HNNQ2FP9",
+     "cat": "沙发",
+     "brand": "OasbiraGrande",
+     "rank": 11,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71rHhXxfxYL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/712WbE42sKL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】ComfCove 铝制 4 件套沙发组（浅灰） 铝合金框架 + 6 英寸厚坐垫，超大座宽，含双人位 + 2 单椅 + 茶几，适合露台/泳池边",
+     "price": "$599.98",
+     "link": "",
+     "asin": "B0HLL3B9KH",
+     "cat": "沙发",
+     "brand": "ComfCove",
+     "rank": 16,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81jRv5PSUIL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71I7FScrOrL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Solaste 铝制 5 座沙发组（深灰） 全铝框架 + 27.5 英寸深座 + 3.2 英寸宽扶手，含三人位 + 2 单椅 + 茶几，适合大庭院",
+     "price": "$699.99",
+     "link": "",
+     "asin": "B0GN2LPM5L",
+     "cat": "沙发",
+     "brand": "Solaste",
+     "rank": 25,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91JxyNTVNoL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716ecO90HHL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】RTDTD 金属 4 件套沙发组（5 座） 钢制框架 + 木纹桌面茶几，含双人位 + 2 单椅 + 长方茶几，适合庭院/露台",
+     "price": "$389.00",
+     "link": "",
+     "asin": "B0H55CW6QL",
+     "cat": "沙发",
+     "brand": "RTDTD",
+     "rank": 35,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81KSeMLS47L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Qn3AH2paL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Ayge HDPE 4 件套沙发组（黑） 高密度 HDPE 板条框架，含双人长凳 + 2 单椅 + 茶几，免维护、抗风雨",
+     "price": "$459.99",
+     "link": "",
+     "asin": "B0HC2SDPGL",
+     "cat": "沙发",
+     "brand": "Ayge",
+     "rank": 54,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/618ZczBxdmL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91fCrOizbBL._AC_SL1500_.jpg"
+     ]
+    }
+   ],
+   "count": 10,
+   "nChair": 5,
+   "nSofa": 5,
+   "nImg": 20,
+   "note": "椅类榜 Top30 与第 2 页逐条筛（藤编/仿藤/rope/woven、零重力与加热按摩躺椅、日光浴与泳池躺椅、室内电动升降、折叠露营椅、与近 5 期重复及同族撞形），最终存 5 椅；沙发榜 Top30 与第 2 页逐条筛（藤编/PE Rattan 占多数、含火盆桌与遮阳棚的非纯沙发组、同族外观撞形），最终存 5 沙发组。详情页复验剔除：VELSCAPE 明写 PE Rattan、PHI VILLA HDPE 款实为 WICKER KING 双股藤、CK Nesbit 含 woven rope、KVAYINE 蛋椅含 wicker。最终 5 椅 + 5 沙发组，材质为 HDPE、相思木、铝/钢，无藤编。"
+  },
   {
    "date": "2026-11-10",
    "items": [
