@@ -1,7 +1,167 @@
 {
- "generatedAt": "2026-11-11",
- "latest": "2026-11-11",
+ "generatedAt": "2026-11-12",
+ "latest": "2026-11-12",
  "days": [
+  {
+   "date": "2026-11-12",
+   "items": [
+    {
+     "text": "【椅子】OUTVELAR 户外餐椅 4 件套（深灰） 可叠放设计 + 透气 Textilene 高背座面，20 英寸宽座配粉末涂层框架，适合庭院餐桌",
+     "price": "$129.99",
+     "link": "",
+     "asin": "B0HNVMMKSW",
+     "cat": "椅子",
+     "brand": "OUTVELAR",
+     "rank": 5,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/712Wp58bBKL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81piblQ4B9L._AC_SL1402_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】CHIQUERID 加大 Papasan 摇椅（含坐垫） 450 lbs 承重，厚坐垫 + 弧形包覆靠背，室内外通用，适合庭院/阳台",
+     "price": "$130.00",
+     "link": "",
+     "asin": "B0HPK3K41H",
+     "cat": "椅子",
+     "brand": "CHIQUERID",
+     "rank": 8,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71yphcAwk1L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61tvT8CtX2L._AC_SL1475_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】Betterhood 户外旋转餐椅 4 件套 高背透气面料 + 金属框架，360° 旋转，适合露台餐桌与吧台",
+     "price": "$184.99",
+     "link": "",
+     "asin": "B0HF6VB8T7",
+     "cat": "椅子",
+     "brand": "Betterhood",
+     "rank": 31,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71ntPCfYUFL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/810EVRyejcL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】BULEXYARD 户外休闲椅 + 脚踏（米色） 4 英寸高弹坐垫 + 粉末涂层钢架，单椅 400 lbs、脚踏 350 lbs 承重",
+     "price": "$109.00",
+     "link": "",
+     "asin": "B0HDC2GPKF",
+     "cat": "椅子",
+     "brand": "BULEXYARD",
+     "rank": 39,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91u2Xj8CcOL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/715sO5xFG4L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】LIKEPAY HDPE 折叠 Adirondack 椅（带抽拉脚踏） 4 合 1 可调靠背 + 抽拉脚踏 + 双杯托，HDPE 板材抗晒抗裂，可折叠收纳",
+     "price": "$101.19",
+     "link": "",
+     "asin": "B0HJWGKMCG",
+     "cat": "椅子",
+     "brand": "LIKEPAY",
+     "rank": 58,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/61X3ljfYemL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71EwvYT8H6L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Vexwalx 铝制 L 型沙发组 6 座（灰） 全铝框架 + Olefin 坐垫，L 型转角 + 双人位 + 茶几，适合大露台/泳池边",
+     "price": "$699.99",
+     "link": "",
+     "asin": "B0HM84D647",
+     "cat": "沙发",
+     "brand": "Vexwalx",
+     "rank": 11,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81tkj4Y3uRL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71+4Hjxcm1L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】FDW 相思木 3 件套（双椅 + 茶几） 实木相思木框架 + 防水坐垫，双人位 + 茶几，小空间阳台/门廊适用",
+     "price": "$115.33",
+     "link": "",
+     "asin": "B0HNNFTGDW",
+     "cat": "沙发",
+     "brand": "FDW",
+     "rank": 32,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/61n+KPi333L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81GyhFRl9XL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Tangkula 金属 3 件套（双椅 + 玻璃茶几） 钢制框架 + 透气布面，钢化玻璃桌面，适合门廊与庭院会客",
+     "price": "$125.23",
+     "link": "",
+     "asin": "B0H9YJSLMB",
+     "cat": "沙发",
+     "brand": "Tangkula",
+     "rank": 39,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/61BbHrzgyCL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91s59DSqyvL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Mguio HDPE 双人扶手椅组（2 件） 全天候 HDPE 板条 + 宽深座面，木纹饰面免维护，抗风不移位",
+     "price": "$569.99",
+     "link": "",
+     "asin": "B0HDC4B2HP",
+     "cat": "沙发",
+     "brand": "Mguio",
+     "rank": 43,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81M5B3Xd92L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61fw3ddzSAL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】COMLAX FIELD 铝制 3 件套（米色） 6 英寸坐垫 + 三人位 + 2 单椅 + 茶几，350 lbs 承重，防水可拆洗",
+     "price": "$393.85",
+     "link": "",
+     "asin": "B0H69WZTKL",
+     "cat": "沙发",
+     "brand": "COMLAX",
+     "rank": 44,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81+KvOOymaL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71w+JXR3-+L._AC_SL1500_.jpg"
+     ]
+    }
+   ],
+   "count": 10,
+   "nChair": 5,
+   "nSofa": 5,
+   "nImg": 20,
+   "note": "椅类榜 Top30 与第 2 页逐条筛（藤编/仿藤/rope/woven、零重力与加热躺椅、日光浴与泳池躺椅、室内电动升降与躺床、折叠露营椅、Papasan 藤编蛋椅、与近 5 期重复及同族撞形），最终存 5 椅；沙发榜 Top30 与第 2 页逐条筛（藤编/PE Wicker 占多数、含火盆桌/花园床/投影套装等非纯沙发组、同族外观撞形），最终存 5 沙发组。详情页复验剔除：Vexwalx 同族两款撞形、LazySunsets 与 Raybiro 含 wicker/rope、Aoxun 8 件套为树脂藤。最终 5 椅 + 5 沙发组，材质为 Textilene、HDPE、相思木、铝/钢，无藤编。"
+  },
   {
    "date": "2026-11-11",
    "items": [
