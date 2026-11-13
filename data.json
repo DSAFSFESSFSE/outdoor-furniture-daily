@@ -1,7 +1,167 @@
 {
- "generatedAt": "2026-11-12",
- "latest": "2026-11-12",
+ "generatedAt": "2026-11-13",
+ "latest": "2026-11-13",
  "days": [
+  {
+   "date": "2026-11-13",
+   "items": [
+    {
+     "text": "【椅子】Adiromoti HDPE 户外摇椅（黑） 全候聚木材质，高背 + 宽扶手，抗晒抗裂，室内外通用",
+     "price": "$84.99",
+     "link": "",
+     "asin": "B0HHD2ZHCB",
+     "cat": "椅子",
+     "brand": "Adiromoti",
+     "rank": 10,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71OeKx0VWUL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71h-nbaPSrL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】VINGLI 塑料弯背餐椅 6 件套（棕） 弯木风一体成型靠背 + 木纹饰面，可叠放收纳，单椅 400 lbs，适合庭院餐桌",
+     "price": "$329.99",
+     "link": "",
+     "asin": "B0HPP22Z26",
+     "cat": "椅子",
+     "brand": "VINGLI",
+     "rank": 22,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71I0DsF9+1L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/816fKFWmNNL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】ZUMUSIJN Windsor 实木摇椅 高板条靠背 + 实木扶手，经典门廊摇椅，适合前廊/庭院",
+     "price": "$99.99",
+     "link": "",
+     "asin": "B0H8NZFKPY",
+     "cat": "椅子",
+     "brand": "ZUMUSIJN",
+     "rank": 42,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71QucpuYeHL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91Hs4LuO1+L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】Murago 户外旋转摇椅 2 件套（灰） 360° 旋转 + 前后摇摆，透气 Textilene 网布 + 厚坐垫，金属圆底座",
+     "price": "$246.69",
+     "link": "",
+     "asin": "B0HFN1XVR7",
+     "cat": "椅子",
+     "brand": "Murago",
+     "rank": 54,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91sO25jQBeL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81tfogDJomL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】YUUIJOAA HDPE 餐椅 2 件套（海军蓝） 全天候 HDPE 板条 + 宽靠背与扶手，免维护、不褪色",
+     "price": "$189.99",
+     "link": "",
+     "asin": "B0HFJDNKLC",
+     "cat": "椅子",
+     "brand": "YUUIJOAA",
+     "rank": 56,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71gCeB8LHHL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91WehLsuZgL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】FUNBERRY 高位 Adirondack 阳台椅 加高座面 + 杯托设计，HDPE 全天候材质，适合阳台/吧台/露台",
+     "price": "$229.99",
+     "link": "",
+     "asin": "B0H8NVRBJJ",
+     "cat": "椅子",
+     "brand": "FUNBERRY",
+     "rank": 58,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/61WcHGzYbIL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/715lcxm0+dL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Vexwalx 铝制 L 型沙发组 8 座（深灰） 全铝框架 + 木纹扶手 + Olefin 坐垫，L 型转角 + 单椅 + 茶几，适合大露台",
+     "price": "$884.92",
+     "link": "",
+     "asin": "B0HM84PYWH",
+     "cat": "沙发",
+     "brand": "Vexwalx",
+     "rank": 16,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81cmoGTnMFL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71DVU-8wWiL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】铝制 4 件套沙发组（27.5 英寸深座） 深座设计 + 可拆洗厚坐垫，含双人位 + 2 单椅 + 茶几，适合庭院/泳池边",
+     "price": "$899.99",
+     "link": "",
+     "asin": "B0HN724JD5",
+     "cat": "沙发",
+     "brand": "铝制",
+     "rank": 22,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91xsNy9l9nL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71p82YlcViL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】ADRERIC 铝制 4 件套（浅灰） 木纹扶手 + 厚坐垫，4 座 + 茶几，铝架防锈，适合露台会客",
+     "price": "$449.99",
+     "link": "",
+     "asin": "B0H9XK7YBW",
+     "cat": "沙发",
+     "brand": "ADRERIC",
+     "rank": 27,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81xRbrDoKKL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81H2SIfepOL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Kingdura HDPE 3 件套（黑） HDPE 板条框架 + 茶几，全天候免维护，抗风雨不褪色",
+     "price": "$639.99",
+     "link": "",
+     "asin": "B0H8MWN1WW",
+     "cat": "沙发",
+     "brand": "Kingdura",
+     "rank": 55,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81XYqco-jpL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81oxTOyV3GL._AC_SL1500_.jpg"
+     ]
+    }
+   ],
+   "count": 10,
+   "nChair": 6,
+   "nSofa": 4,
+   "nImg": 20,
+   "note": "椅类榜 Top30 与第 2 页逐条筛（藤编/仿藤/rope/woven、零重力与加热按摩椅、Papasan 蛋椅与摇椅同族、泳池躺椅、同族撞形及近 5 期重复），最终存 6 椅；沙发榜 Top30 与第 2 页逐条筛（PE Rattan / Wicker 与 rope-woven 占多数，含火盆桌与投影套装等非纯沙发组、同族外观撞形），最终存 4 沙发组。详情页复验剔除：CK Nylan 7 座含 rope/woven、UDPATIO 6 件套为 PE Rattan、FUARTIO 6 件套含 wicker/rope。最终 6 椅 + 4 沙发组，材质为 HDPE、实木、铝/钢 + Textilene，无藤编。"
+  },
   {
    "date": "2026-11-12",
    "items": [
