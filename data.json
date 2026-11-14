@@ -1,7 +1,167 @@
 {
- "generatedAt": "2026-11-13",
- "latest": "2026-11-13",
+ "generatedAt": "2026-11-14",
+ "latest": "2026-11-14",
  "days": [
+  {
+   "date": "2026-11-14",
+   "items": [
+    {
+     "text": "【椅子】SERWALL HDPE 户外摇椅 2 件套（灰） 加宽加厚座面 + 弧形摇杆，全天候 HDPE 板材，承重 350 lbs，适合前廊与露台",
+     "price": "$179.99",
+     "link": "",
+     "asin": "B0HDPV81RT",
+     "cat": "椅子",
+     "brand": "SERWALL",
+     "rank": 1,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71v8FCc48YL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71CAc+oGtLL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】PIZZELLO 可叠放餐椅 4 件套（灰） 21 英寸宽座 + 高靠背，透气 Textilene 网布，可叠放收纳",
+     "price": "$99.99",
+     "link": "",
+     "asin": "B0HHM3CSN3",
+     "cat": "椅子",
+     "brand": "PIZZELLO",
+     "rank": 30,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81hS9JCRRCL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71kR6c5BGjL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】Furmax 30 英寸金属吧椅 4 件套 工业风金属框 + 木纹座面，可叠放，适合吧台/高脚餐桌",
+     "price": "$119.99",
+     "link": "",
+     "asin": "B0HDS157XP",
+     "cat": "椅子",
+     "brand": "Furmax",
+     "rank": 33,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/61UfK7b-+KL._AC_SL1254_.jpg",
+      "https://m.media-amazon.com/images/I/71j1n49G3OL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】Fortune Candy 实木门廊摇椅（棕） 高板条靠背 + 实木扶手，经典美式门廊造型，适合前廊/阳台",
+     "price": "$99.99",
+     "link": "",
+     "asin": "B0HHD36TBV",
+     "cat": "椅子",
+     "brand": "Fortune",
+     "rank": 40,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71518jRRkVL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81EKZcDKflL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】HDPE 折叠 Adirondack 椅（黑） 可折叠收纳 + 双侧杯托与手机槽，木纹饰面全天候板材，免维护",
+     "price": "$94.99",
+     "link": "",
+     "asin": "B0HF3T5Y2Q",
+     "cat": "椅子",
+     "brand": "HDPE",
+     "rank": 42,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/716wtMdHNQL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81EPIFdbCFL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】NICESOUL 户外躺椅 + 脚踏 钢管弧形底座 + 后倾靠背与扶手，厚软包坐垫，室内外通用阅读椅",
+     "price": "$149.99",
+     "link": "",
+     "asin": "B0H5WB723M",
+     "cat": "椅子",
+     "brand": "NICESOUL",
+     "rank": 57,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81YsmDQ+WXL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/718Z6yE39UL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Garvee 4 件套沙发组（米白 / 黑架） 竖条板条靠背 + 金属框架，双人位 + 2 单椅 + 茶几，适合泳池边",
+     "price": "$319.99",
+     "link": "",
+     "asin": "B0H8P2MT8Y",
+     "cat": "沙发",
+     "brand": "Garvee",
+     "rank": 6,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91ifWp-4GPL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71R11+TKZIL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】ComfCove 铝制 4 件套沙发组（深灰） 铝架 + 木纹茶几台面，宽座深坐 + 可拆洗坐垫，适合露台会客",
+     "price": "$699.97",
+     "link": "",
+     "asin": "B0HM36FHFK",
+     "cat": "沙发",
+     "brand": "ComfCove",
+     "rank": 12,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/818hbpPDEnL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71o4KKZ62qL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】PHI VILLA 弧形金属 6 件套（米白） 半圆环绕造型 + 6 座，金属框架防锈，适合泳池边与庭院围合",
+     "price": "$799.99",
+     "link": "",
+     "asin": "B0HJQXTV7L",
+     "cat": "沙发",
+     "brand": "PHI",
+     "rank": 20,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81pwBJjDeYL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81wEC3OlC0L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】UDPATIO 铝制 5 件套（米白） 宽扶手 + 30.7 英寸高靠背，坐垫带防滑绑带，含茶几",
+     "price": "$699.97",
+     "link": "",
+     "asin": "B0HLYS6K7H",
+     "cat": "沙发",
+     "brand": "UDPATIO",
+     "rank": 30,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91CFoSKRDAL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Lp9Emg+YL._AC_SL1500_.jpg"
+     ]
+    }
+   ],
+   "count": 10,
+   "nChair": 6,
+   "nSofa": 4,
+   "nImg": 20,
+   "note": "椅类榜 Top30 与第 2 页逐条筛（藤编/仿藤/rope/woven、Papasan 蛋椅与摇椅同族、零重力与加热按摩椅、泳池躺椅与日光浴椅、室内电动升降与折叠床、同族撞形及近 5 期重复），最终存 6 椅；沙发榜 Top30 与第 2 页逐条筛（PE Rattan / Wicker 与 rope-woven 过半，含火盆桌与投影套装等非纯沙发组、同族外观撞形），最终存 4 沙发组。详情页复验剔除：PHI VILLA HDPE 模组实为仿藤纹（wicker/rattan）、Vexwalx 同族撞形、LayinSun 含 rope/woven、VELSCAPE 与 Aoxun 为 PE Rattan。最终 6 椅 + 4 沙发组，材质为 HDPE、实木、铝/钢 + Textilene，无藤编。"
+  },
   {
    "date": "2026-11-13",
    "items": [
