@@ -1,7 +1,167 @@
 {
- "generatedAt": "2026-11-17",
- "latest": "2026-11-17",
+ "generatedAt": "2026-11-18",
+ "latest": "2026-11-18",
  "days": [
+  {
+   "date": "2026-11-18",
+   "items": [
+    {
+     "text": "【椅子】VINGLI 曲背塑料餐椅 2 件套（棕） 小酒馆式弯背 + 木纹饰面，一体成型可叠放，单椅承重 400 磅，室内外通用",
+     "price": "$109.99",
+     "link": "",
+     "asin": "B0HPP9LRFV",
+     "cat": "椅子",
+     "brand": "VINGLI",
+     "rank": 25,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/61K3ho5zW4L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/816fKFWmNNL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】Outsunny 木质 Adirondack 摇椅 2 件套（碳化） 碳化实木条板 + 车轮式扶手与摇弧，宽坐面，前廊与庭院都能放",
+     "price": "$199.99",
+     "link": "",
+     "asin": "B0H6L344WV",
+     "cat": "椅子",
+     "brand": "Outsunny",
+     "rank": 56,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81pROjUH7lL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81BrjBiDLhL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】ACUEL HDPE 餐椅 2 件套（蓝） 横条板背 + 板条座面，排水透气不积水，全天候 HDPE 不怕晒",
+     "price": "$119.98",
+     "link": "",
+     "asin": "B0H8C5QQSQ",
+     "cat": "椅子",
+     "brand": "ACUEL",
+     "rank": 58,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71QnuvMI0tL._AC_SL1254_.jpg",
+      "https://m.media-amazon.com/images/I/61jVmviUr3L._AC_SL1254_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】Betterhood 网布旋转餐椅（米） 360° 旋转 + 15° 轻摇，高背网布配金属架，久坐不闷",
+     "price": "$169.99",
+     "link": "",
+     "asin": "B0HHDVWWGN",
+     "cat": "椅子",
+     "brand": "Betterhood",
+     "rank": 46,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81fzATizoKL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Ysan4yPxL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】STRPRETTY 旋转休闲椅 4 件套（米） 钢制旋转底座 + 厚软包与弧形扶手，四椅成套，适合围坐聊天",
+     "price": "$419.99",
+     "link": "",
+     "asin": "B0HMQY8FYB",
+     "cat": "椅子",
+     "brand": "STRPRETTY",
+     "rank": 43,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81covq-aErL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61K16VUcjLL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】ADRERIC 铝制 7 件 9 座（深灰） 全铝防锈框架 + 木纹扶手，含双脚踏与大茶几，9 人位一次到位",
+     "price": "$791.99",
+     "link": "",
+     "asin": "B0H9XL9KP3",
+     "cat": "沙发",
+     "brand": "ADRERIC",
+     "rank": 10,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91X1M3k+IRL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/819oinsblLL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Opohoro 铝制 3 件 5 座（米白垫） 两把旋转摇椅 + 一张大沙发，6 英寸厚垫，弧形围合适合小庭院",
+     "price": "$1,229.99",
+     "link": "",
+     "asin": "B0HPDJ1WQ4",
+     "cat": "沙发",
+     "brand": "Opohoro",
+     "rank": 20,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81QJCfVEz0L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71eHiW3JCSL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】JOYURE 金属 4 件转角（灰） 铁架 + 木纹防烫台面边几，含可调靠背单椅，模块拼接可换布局",
+     "price": "$439.99",
+     "link": "",
+     "asin": "B0HG126DFJ",
+     "cat": "沙发",
+     "brand": "JOYURE",
+     "rank": 36,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81X-IUTp+9L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71pko9Tq+XL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】UDPATIO 铝制 4 件（米白垫） 黑铝框 + 木纹茶几，双人位加两把单椅，靠背带后倾角度",
+     "price": "$589.99",
+     "link": "",
+     "asin": "B0HGXJTJNP",
+     "cat": "沙发",
+     "brand": "UDPATIO",
+     "rank": 30,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91OTqT+lGHL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71LL5tg6aUL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Garvee 4 件套（灰） 双人位 + 两把单椅 + 茶几，4 人位对称布局，灰垫耐脏",
+     "price": "$399.99",
+     "link": "",
+     "asin": "B0H8PWQYF4",
+     "cat": "沙发",
+     "brand": "Garvee",
+     "rank": 9,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91YO4GcQAGL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71chQXBVUmL._AC_SL1500_.jpg"
+     ]
+    }
+   ],
+   "count": 10,
+   "nChair": 5,
+   "nSofa": 5,
+   "nImg": 20,
+   "note": "榜单继续被 Papasan 蛋椅、零重力、加热按摩、电动升降椅、日光浴躺椅与藤编占满，改用木纹注塑、碳化实木、HDPE 板条与铁架软包补足；已逐条剔除藤编/仿藤（rattan/wicker/rope/woven）、同族撞形与近 5 期重复。详情页复验剔除：VINGLI 实际为 HDPE 注塑（保留）、VELSCAPE 3PC 与 VELSCAPE 5PC 含 rattan/wicker、PHI VILLA「HDPE」套装描述仍为 Wicker、CK Nylan 含 handwoven rope。最终 5 椅 + 5 沙发组，无藤编。"
+  },
   {
    "date": "2026-11-17",
    "items": [
