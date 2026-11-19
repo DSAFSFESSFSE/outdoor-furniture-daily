@@ -1,7 +1,167 @@
 {
- "generatedAt": "2026-11-18",
- "latest": "2026-11-18",
+ "generatedAt": "2026-11-19",
+ "latest": "2026-11-19",
  "days": [
+  {
+   "date": "2026-11-19",
+   "items": [
+    {
+     "text": "【椅子】SERWALL HDPE 摇椅 2 件套（黑） 加宽座面 + 条板靠背与扶手，HDPE 一体成型不裂不腐，摇弧平顺，前廊与露台都能放",
+     "price": "$185.99",
+     "link": "",
+     "asin": "B0F9YYW94G",
+     "cat": "椅子",
+     "brand": "SERWALL",
+     "rank": 5,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71mvrvdI5LL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81b-Ofdq+CL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】SERWALL Adirondack 餐椅 2 件套（棕） 26.9×29.5×41 in 餐椅高度，弧形延伸靠背贴合腰背，单椅承重 350 磅，HDPE 全天候",
+     "price": "$169.98",
+     "link": "",
+     "asin": "B0FDW1ZJ93",
+     "cat": "椅子",
+     "brand": "SERWALL",
+     "rank": 9,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71U6zrUOpBL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91rFrGUWbOL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】HDPE 叠放 Adirondack 2 件套（黑） 25×20×35 in 小体型矮背椅，最多可叠 6 张收纳，火盆旁与阳台角落都好摆",
+     "price": "$129.99",
+     "link": "",
+     "asin": "B0HP175MDD",
+     "cat": "椅子",
+     "brand": "HDPE",
+     "rank": 30,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71W2cfdOJhL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71pEyd7tAXL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】VINGLI 竹节式高背椅 2 件套（白） 细长纺锤背 + 竹节横档，可叠放，单椅承重 400 磅，婚礼宴会与仪式场景通用",
+     "price": "$89.99",
+     "link": "",
+     "asin": "B0HPPJ75P2",
+     "cat": "椅子",
+     "brand": "VINGLI",
+     "rank": 42,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/6175O7SN7mL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81m2cQRKudL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】HDPE 户外餐椅 2 件套（黑） 宽扶手 + 高背弧形靠背，HDPE 不怕日晒雨淋，不裂不腐不生锈，餐区四季可用",
+     "price": "$109.99",
+     "link": "",
+     "asin": "B0HFJ795DR",
+     "cat": "椅子",
+     "brand": "HDPE",
+     "rank": 49,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71QowpYV8OL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/9100mVGYH6L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】UDPATIO L 形 8 件套（深灰） 金属架双层防锈（电泳底漆 + 粉末喷涂），6 英寸 Olefin 坐垫，含双脚踏，L 形围合",
+     "price": "$549.99",
+     "link": "",
+     "asin": "B0HKHDZ7F7",
+     "cat": "沙发",
+     "brand": "UDPATIO",
+     "rank": 24,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81Xj7dYdrqL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Ei1SMaMoL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】铝制 6 座转角沙发组（深灰） 全铝防锈架 + 木纹扶手不烫手，超宽座面，含双脚踏与大茶几，6 人位一次到位",
+     "price": "$699.99",
+     "link": "",
+     "asin": "B0HC33T9Q5",
+     "cat": "沙发",
+     "brand": "铝制",
+     "rank": 31,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91FIpChbjVL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71mM8C5Mo-L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】PS 木纹模块 7 件套（蓝灰） 高密度聚苯乙烯木纹材质，3 人位可拆成 3 张单椅，加 2 单椅与双几，10 种以上摆法",
+     "price": "$521.99",
+     "link": "",
+     "asin": "B0H6P864DT",
+     "cat": "沙发",
+     "brand": "PS",
+     "rank": 43,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81D17m6OSKL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71yAO31Mw2L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Christopher Knight 相思木 3 件套（原木） 实木扶手椅 ×2 + 圆鼓条板茶几，座面条板排水不积水，天然抗腐，小院对话组",
+     "price": "$290.98",
+     "link": "",
+     "asin": "B0FMJZJ284",
+     "cat": "沙发",
+     "brand": "Christopher",
+     "rank": 48,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/A1RjRUpAX0L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/711M91dnC2L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】PremDwell 铝制 + 火盆 6 件套（米） 全铝架 + 木纹扶手，6 英寸厚垫，含火盆茶几，夜晚可直接围火而坐",
+     "price": "$2,499.99",
+     "link": "",
+     "asin": "B0HP9VKK6R",
+     "cat": "沙发",
+     "brand": "PremDwell",
+     "rank": 51,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81iBeTaw+SL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71kpwa1WqhL._AC_SL1500_.jpg"
+     ]
+    }
+   ],
+   "count": 10,
+   "nChair": 5,
+   "nSofa": 5,
+   "nImg": 20,
+   "note": "椅类榜前 30 仍是 Papasan 蛋椅、零重力、加热按摩、电动升降椅、日光浴躺椅与藤编，可用的非藤编款只剩 HDPE 板条、实木与注塑塑料；沙发榜藤编（Wicker/PE Rattan）过半，铝制与 PS 木纹款仅存少数。已逐条剔除藤编/仿藤（rattan/wicker/rope/woven）、同族撞形与近 5 期重复；详情页复验剔除 UDPATIO Raybiro、PURPLE LEAF 8 件套、Shintenchi 火盆套装、Aoxun 8 件套（均为 PE 藤编）、Sophia & William「HDPE」6 件套（描述为 WICKER KING 双股藤）与 PremDwell 3 件套（PE wicker）。最终 5 椅 + 5 沙发组，无藤编。"
+  },
   {
    "date": "2026-11-18",
    "items": [
