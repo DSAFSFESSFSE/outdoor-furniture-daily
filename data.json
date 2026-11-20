@@ -1,7 +1,167 @@
 {
- "generatedAt": "2026-11-19",
- "latest": "2026-11-19",
+ "generatedAt": "2026-11-20",
+ "latest": "2026-11-20",
  "days": [
+  {
+   "date": "2026-11-20",
+   "items": [
+    {
+     "text": "【椅子】ACUEL HDPE 叠放 Adirondack 4 件套（黑） 一次 4 张，单椅承重 350 磅，座面加宽，叠放收纳省空间，HDPE 抗晒抗腐",
+     "price": "$237.98",
+     "link": "",
+     "asin": "B0HJQY2XJK",
+     "cat": "椅子",
+     "brand": "ACUEL",
+     "rank": 23,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71XI0l3wL3L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71pEyd7tAXL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】SERWALL HDPE 折叠可调 Adirondack 2 件套 + 脚踏（灰） 靠背多档可调、脚踏可抽拉，不用时对折靠墙，HDPE 不裂不腐不生锈",
+     "price": "$209.99",
+     "link": "",
+     "asin": "B0HM7NKGY5",
+     "cat": "椅子",
+     "brand": "SERWALL",
+     "rank": 33,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/812LJDhkxXL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81s389lkKuL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】GCTEKWOOD 折叠 Adirondack 单椅（柚木色） 带杯架与手机槽，可折叠平放，木纹色 HDPE 观感接近实木但免刷油维护",
+     "price": "$96.00",
+     "link": "",
+     "asin": "B0FX2FFJKB",
+     "cat": "椅子",
+     "brand": "GCTEKWOOD",
+     "rank": 42,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71qkadqMw9L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71erXmICR9L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】Adirondack 4 合 1 摇椅 + 脚踏（灰） 椅背与脚踏四段联动，坐、半躺、全躺、摇四种姿态，含双杯架",
+     "price": "$94.99",
+     "link": "",
+     "asin": "B0HCB926Z3",
+     "cat": "椅子",
+     "brand": "Adirondack",
+     "rank": 55,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/61rhinIUobL._AC_SL1473_.jpg",
+      "https://m.media-amazon.com/images/I/71mfqVX+yoL._AC_SL1473_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】Adirondack 滑椅 2 件套 + 抽拉脚踏（蓝） 滑轨前后缓摆，脚踏可收进座下，宝蓝色在草坪与露台上都出片",
+     "price": "$268.00",
+     "link": "",
+     "asin": "B0H8YVJ72B",
+     "cat": "椅子",
+     "brand": "Adirondack",
+     "rank": 57,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81TWN3ODo9L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81vWCycRZKL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Vexwalx 铝制 L 形 8 座沙发组（深灰） 铝架 + 木纹扶手，L 形 8 座可拆成 3+2+单椅，含脚踏与大茶几",
+     "price": "$827.99",
+     "link": "",
+     "asin": "B0HM84PYWH",
+     "cat": "沙发",
+     "brand": "Vexwalx",
+     "rank": 7,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81cmoGTnMFL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71DVU-8wWiL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Opohoro 铝制 4 件套 + 火盆茶几（深灰） 全铝架 + 6 英寸厚垫，5 人位围合，火盆茶几替代中心茶几，夜聊直接围火",
+     "price": "$629.99",
+     "link": "",
+     "asin": "B0HP1Z3L14",
+     "cat": "沙发",
+     "brand": "Opohoro",
+     "rank": 21,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81FjR5KyVTL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71+-gdrzYnL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Amopatio 铝制 6 件套（浅灰） 3 人沙发 + 2 单椅 + 茶几，铝架防锈，浅灰垫配白木纹桌面，露台通用",
+     "price": "$509.99",
+     "link": "",
+     "asin": "B0HHHY84PL",
+     "cat": "沙发",
+     "brand": "Amopatio",
+     "rank": 23,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91Twz5944mL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/711rR+4chHL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Belord 金属旋转椅 4 件套 + 火盆（浅灰） 双旋转单椅 360° 转，6 英寸厚垫，火盆桌带盖可当茶几，廊架下成套",
+     "price": "$1,659.99",
+     "link": "",
+     "asin": "B0HNTB5P6K",
+     "cat": "沙发",
+     "brand": "Belord",
+     "rank": 31,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81J3Lfhz9DL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81++9fNre8L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】UDPATIO 10 英寸厚垫转角沙发组（米） 10 英寸厚坐垫 + 6 英寸宽扶手，木纹边几可移动，大平层露台主位",
+     "price": "$1,829.99",
+     "link": "",
+     "asin": "B0HP1KF44T",
+     "cat": "沙发",
+     "brand": "UDPATIO",
+     "rank": 55,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/917SbGB5I0L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81FEe-FW3SL._AC_SL1500_.jpg"
+     ]
+    }
+   ],
+   "count": 10,
+   "nChair": 5,
+   "nSofa": 5,
+   "nImg": 20,
+   "note": "椅类榜前 30 依旧被 Papasan 蛋椅、零重力、加热按摩椅与藤编占据，非藤编可用的几乎只剩 HDPE 板条椅；本期因此把椅子全部换成 HDPE 板条体系的不同形态（叠放 4 张、折叠 + 脚踏、4 合 1 摇椅、滑椅 + 抽拉脚踏、折叠单椅），靠结构与姿态区分而不靠花色。沙发榜藤编过半，可用的铝制与金属软包款基本收完：铝制 4 件 + 火盆、金属旋转椅 4 件 + 火盆、铝制 6 件、10 英寸厚垫转角组、铝制 L 形 8 座。已剔除藤编/仿藤（rattan/wicker/rope/woven）、封面为对比示意或尺寸标注图、以及同款撞形（Vexwalx 绳编款、CK Nesbit 绳编 6/8 座、Aoxun 10 件藤编、VELSCAPE 藤编躺椅组、VERYKE 铸铝餐组）。"
+  },
   {
    "date": "2026-11-19",
    "items": [
