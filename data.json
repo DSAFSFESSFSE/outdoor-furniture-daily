@@ -1,7 +1,167 @@
 {
- "generatedAt": "2026-11-23",
- "latest": "2026-11-23",
+ "generatedAt": "2026-11-24",
+ "latest": "2026-11-24",
  "days": [
+  {
+   "date": "2026-11-24",
+   "items": [
+    {
+     "text": "【椅子】THOEOE HDPE Adirondack 折叠椅 2 件套（灰） 抽拉式脚踏 + 可折叠，HDPE 板条全天候不裂不腐，单椅承重 350 磅，收起来只占一格",
+     "price": "$185.99",
+     "link": "",
+     "asin": "B0H9LGLRRH",
+     "cat": "椅子",
+     "brand": "THOEOE",
+     "rank": 17,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/61Q8kpacF5L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71wQmx0-xoL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】NBYSGO HDPE 户外吧椅 2 件套（黑）29 英寸 板条式 HDPE 座面，29 英寸吧台高度，配高脚桌或岛台，雨天不积水、不用收",
+     "price": "$50.48",
+     "link": "",
+     "asin": "B0HMJBBVFT",
+     "cat": "椅子",
+     "brand": "NBYSGO",
+     "rank": 25,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71dvj3AxJ1L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81TamzeSwGL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】WOOW DEPOT 塑料餐椅 4 件套（鼠尾草绿） 免安装、可叠放，PP 一体成型，绿调适合庭院与阳台，四张一摞好收纳",
+     "price": "$249.99",
+     "link": "",
+     "asin": "B0H6VZCLGW",
+     "cat": "椅子",
+     "brand": "WOOW",
+     "rank": 47,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71a5h+r0kEL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81X3XPqYq-L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】KROFEM 叠放餐椅 2 件套（黑灰） 21 英寸加宽高背 + 特斯林透气网布，钢架承重，餐区与露台都能用",
+     "price": "$45.00",
+     "link": "",
+     "asin": "B0HJQZB39X",
+     "cat": "椅子",
+     "brand": "KROFEM",
+     "rank": 57,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/817ooSIM6UL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81w9HHkMDAL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】ZUMUSIJN Windsor 实木摇椅（樱桃木色） 经典温莎高背板条，实木框架 + 弧形摇杆，门廊与前院的主力位",
+     "price": "$149.00",
+     "link": "",
+     "asin": "B0H8NZFKPY",
+     "cat": "椅子",
+     "brand": "ZUMUSIJN",
+     "rank": 58,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71QucpuYeHL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91Hs4LuO1+L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】SERWALL HDPE 户外沙发组（黑框灰垫） HDPE 板条框架 + 灰厚垫，防潮不生锈，含茶几，四季摆在户外不用搬",
+     "price": "$541.02",
+     "link": "",
+     "asin": "B0HCVSC8CG",
+     "cat": "沙发",
+     "brand": "SERWALL",
+     "rank": 7,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/714+f9HH-9L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71w-du76bNL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Sweecci 铝制 8 件套（深灰 + 火盆） 3 人位 + 4 张旋转单椅 + 火盆桌，5.1 英寸厚垫，铝架防锈，大院子一次配齐",
+     "price": "$1,376.55",
+     "link": "",
+     "asin": "B0HQYSTNCP",
+     "cat": "沙发",
+     "brand": "Sweecci",
+     "rank": 28,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/914H6tB69qL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81YG-iAkEkL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】homary 铝制 + 柚木 4 件套（米白垫） 铝架 + 柚木平台底座，模块可自由拼，米白厚垫，泳池边与半室外空间",
+     "price": "$1,994.51",
+     "link": "",
+     "asin": "B0H86M3MMQ",
+     "cat": "沙发",
+     "brand": "homary",
+     "rank": 46,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81kNXOXqaAL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91o2P7U8xJL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】PHI VILLA 弧形金属 11 件套（10 座 + 火盆） 半月亮弧形围坐，金属框架 + 板条靠背，含火盆桌，适合大露台聚会",
+     "price": "$2,609.99",
+     "link": "",
+     "asin": "B0HJQVSNF9",
+     "cat": "沙发",
+     "brand": "PHI",
+     "rank": 50,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91V6M1owaaL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81wEC3OlC0L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Merax 相思木 L 形 4 件套（橄榄绿垫） 实木 L 形转角 + 独立茶几，橄榄绿厚垫，木色与绿垫撞色，露台围合",
+     "price": "$1,159.99",
+     "link": "",
+     "asin": "B0HBQ599Y5",
+     "cat": "沙发",
+     "brand": "Merax",
+     "rank": 57,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91rAAF7I37L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716Mp-Lg3QL._AC_SL1500_.jpg"
+     ]
+    }
+   ],
+   "count": 10,
+   "nChair": 5,
+   "nSofa": 5,
+   "nImg": 20,
+   "note": "今日椅类榜前十几乎被 Papasan 蛋椅、零重力与加热椅包干，非藤编可用款散在吧椅、塑料餐椅与实木摇椅一侧，因此椅子按「能成套摆」的形态选：HDPE Adirondack 折叠 + 脚踏 2 件、29 英寸 HDPE 吧椅 2 件、PP 塑料餐椅 4 件（鼠尾草绿）、特斯林叠放餐椅 2 件、温莎实木摇椅。沙发榜 Wicker/PE Rattan 仍过半，收 HDPE 板条沙发组、铝制 8 件（含火盆）、铝 + 柚木 4 件模块、PHI VILLA 弧形金属 11 件 10 座、Merax 相思木 L 形 4 件（橄榄绿垫）。已剔除藤编/仿藤/绳编（Vexwalx 5 件弧形绳编）、蛋形吊椅（Bybafun）、Chairish 复古二手单椅（1950s Woodard）与同类撞形款。"
+  },
   {
    "date": "2026-11-23",
    "items": [
