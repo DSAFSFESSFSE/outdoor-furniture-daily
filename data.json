@@ -1,7 +1,167 @@
 {
- "generatedAt": "2026-11-25",
- "latest": "2026-11-25",
+ "generatedAt": "2026-11-26",
+ "latest": "2026-11-26",
  "days": [
+  {
+   "date": "2026-11-26",
+   "items": [
+    {
+     "text": "【椅子】HDPE 叠放 Adirondack 4 件套（黑） HDPE 板条 + 加宽扶手，可叠放收纳，350 lb 承重，火盆边与露台成组摆",
+     "price": "$220.99",
+     "link": "",
+     "asin": "B0HJQY2XJK",
+     "cat": "椅子",
+     "brand": "HDPE",
+     "rank": 1,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71XI0l3wL3L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71pEyd7tAXL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】MEWAY 特斯林叠放餐椅 6 件套（灰） 高背特斯林网布 + 钢架，6 张可叠放，长餐桌一次配齐，20 英寸座宽不挤",
+     "price": "$113.99",
+     "link": "",
+     "asin": "B0HHLTMG9Q",
+     "cat": "椅子",
+     "brand": "MEWAY",
+     "rank": 2,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71OnI-ex3uL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81x0hUGlY+L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】HDPS 木纹餐椅 2 件套（灰） 铝架 + HDPS 木纹板条，免上漆不开裂，扶手椅形，餐区与阳台都压得住",
+     "price": "$129.99",
+     "link": "",
+     "asin": "B0HC721WKQ",
+     "cat": "椅子",
+     "brand": "HDPS",
+     "rank": 3,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/61T8qOey+nL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/615nO9mlclL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】HDPE Adirondack 摇椅 2 件套 + 抽拉脚踏（原木色） 前后摇动 + 脚踏可抽拉，HDPE 仿木色，门廊主力位，两人并排刚好",
+     "price": "$249.00",
+     "link": "",
+     "asin": "B0H9LHLR3R",
+     "cat": "椅子",
+     "brand": "HDPE",
+     "rank": 4,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91jnyyasbRL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71rOCjbv1RL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】VINGLI 特斯林高背椅 2 件套（银灰） 特斯林网布 + 黑架，高背透气，单椅轻便，补位与临时加座最灵活",
+     "price": "$44.99",
+     "link": "",
+     "asin": "B0HB4MWW4N",
+     "cat": "椅子",
+     "brand": "VINGLI",
+     "rank": 5,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81QVtcrUOiL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813Kzw3Rr-L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】SERWALL HDPE 4 件套 + 边几（木纹 + 白垫） HDPE 仿木框架 + 白色厚垫，3 人位 + 单椅 + 边几，全天候不用收",
+     "price": "$609.99",
+     "link": "",
+     "asin": "B0HNP2R2WH",
+     "cat": "沙发",
+     "brand": "SERWALL",
+     "rank": 6,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71tyWPdbOxL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71um1q9k4-L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】ComfCove 铝制 4 件套（深灰 + 灰垫） 铝架防锈 + 木色扶手，3 人位 + 2 单椅 + 茶几，小院子围合式摆放",
+     "price": "$559.99",
+     "link": "",
+     "asin": "B0HLLCHL2B",
+     "cat": "沙发",
+     "brand": "ComfCove",
+     "rank": 7,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81Fs0WlnXTL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Ik9+KonIL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】铝制 8 件套 + 火盆桌（深灰） 3 人位 + 双人位 + 单椅 + 火盆茶几，9 座，铝架板条，大露台一次到位",
+     "price": "$1,299.99",
+     "link": "",
+     "asin": "B0HP9ZDHX4",
+     "cat": "沙发",
+     "brand": "铝制",
+     "rank": 8,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81vWiSBkQ6L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Z9RbpZ9VL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Vakollia 铝制 5 件套（超宽深座） 加宽深座 + 厚软包，铝架，3 人位 + 2 单椅 + 茶几，坐着不局促",
+     "price": "$1,999.99",
+     "link": "",
+     "asin": "B0HRFQ64D9",
+     "cat": "沙发",
+     "brand": "Vakollia",
+     "rank": 9,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91Fb1fLKRpL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81pC2AadXfL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Vexwalx 铝制 5 件套 + 旋转单椅（石墨灰） 含 360° 旋转单椅，铝架 + 木纹扶手，茶几带下层收纳，围坐动线顺",
+     "price": "$759.99",
+     "link": "",
+     "asin": "B0HLTG6PGX",
+     "cat": "沙发",
+     "brand": "Vexwalx",
+     "rank": 10,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/810Gq1wU-lL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61cvSzatDOL._AC_SL1500_.jpg"
+     ]
+    }
+   ],
+   "count": 10,
+   "nChair": 5,
+   "nSofa": 5,
+   "nImg": 20,
+   "note": "今日椅类榜前十依旧是 Papasan 蛋椅、零重力与加热椅的天下，非藤编可用款只剩板条叠放椅、特斯林餐椅与 HDPE 摇椅这一侧：黑色 HDPE 叠放 Adirondack 4 件、6 张特斯林叠放餐椅、HDPS 木纹餐椅 2 件、HDPE 摇椅 2 件带抽拉脚踏、特斯林高背椅 2 件。沙发榜 Wicker/PE Rattan 仍占八成，收 HDPE 4 件（木纹 + 白垫）、铝制 4 件、铝制 8 件带火盆、铝制 5 件超宽深座、铝制 5 件含旋转单椅。已剔除藤编/绳编（CK Huck、PURPLE LEAF 8 座、CK Nylan、chillscreamni 相思木 + 绳编侧板）、促销文字覆盖图（Sunshine Valley、ASUZAC）、局部特写（Neighbor）、AI 艺术图（Lexica）与表清单页。"
+  },
   {
    "date": "2026-11-25",
    "items": [
