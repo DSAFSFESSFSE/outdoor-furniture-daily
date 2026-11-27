@@ -1,7 +1,167 @@
 {
- "generatedAt": "2026-11-26",
- "latest": "2026-11-26",
+ "generatedAt": "2026-11-27",
+ "latest": "2026-11-27",
  "days": [
+  {
+   "date": "2026-11-27",
+   "items": [
+    {
+     "text": "【椅子】KINGYES 折叠 Adirondack 2 件套 + 脚踏（灰） HDPE 板条 + 可折叠，含双脚踏与杯架，免上漆不开裂，露台两人位随收随放",
+     "price": "$209.99",
+     "link": "",
+     "asin": "B0H8SJS81P",
+     "cat": "椅子",
+     "brand": "KINGYES",
+     "rank": 1,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/61J4Ryj-Z9L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/8137PLL0XZL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】Garvee 旋转餐椅 2 件套（灰网布） 钢架 + 特斯林网布，360° 旋转 + 高背软包，配长餐桌，泳池边不闷背",
+     "price": "$161.49",
+     "link": "",
+     "asin": "B0H99TZQKB",
+     "cat": "椅子",
+     "brand": "Garvee",
+     "rank": 2,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91f7nsCFezL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81tCVupQGQL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】Crestlive 户外吧椅 2 件套（28.7 英寸） 金属架 + 透气网布，吧台高度，500 lb 承重，阳台高台位直接配齐",
+     "price": "$102.99",
+     "link": "",
+     "asin": "B0H7MQHVVK",
+     "cat": "椅子",
+     "brand": "Crestlive",
+     "rank": 3,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81Dm5B+lFjL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716JmvuxOyL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】ASKPASS PP 树脂躺椅 2 件套 + 边几（黑） 5 档靠背 + 可拆边几，防水树脂板条，泳池边躺晒，两人成组",
+     "price": "$107.09",
+     "link": "",
+     "asin": "B0H9CRF489",
+     "cat": "椅子",
+     "brand": "ASKPASS",
+     "rank": 4,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/71Nz7uuGbcL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91q9pgnLgHL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【椅子】PHI VILLA 折叠餐椅 4 件套（黑） 铝架 + 可调靠背，免安装折叠，4 张一次配齐，小餐桌与阳台都合适",
+     "price": "$220.79",
+     "link": "",
+     "asin": "B0HCZ6GJ5P",
+     "cat": "椅子",
+     "brand": "PHI",
+     "rank": 5,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/91dsEBSr1SL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71SDS4t8C7L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】ADRERIC 铝制 5 件套（深灰，7 座） 铝架 + 厚软包，3 人位 + 2 单椅 + 茶几，深座宽扶手，院子围合",
+     "price": "$659.99",
+     "link": "",
+     "asin": "B0H9XLNFZ1",
+     "cat": "沙发",
+     "brand": "ADRERIC",
+     "rank": 6,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81Y77+lx34L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71W67tGE+8L._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】铝制 8 件套 + 火盆桌（深灰） 3 人位 + 双人位 + 单椅 + 火盆茶几，9 座，铝架板条，大露台一次到位",
+     "price": "$1,299.99",
+     "link": "",
+     "asin": "B0HQZZZ7WS",
+     "cat": "沙发",
+     "brand": "铝制",
+     "rank": 7,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81Z9RbpZ9VL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81wTDyOGubL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】VilroCaz 相思木 4 件套（原木 + 白垫） 相思木框架 + 白色厚垫，3 人位 + 2 单椅 + 椭圆茶几，木色暖场",
+     "price": "$715.00",
+     "link": "",
+     "asin": "B0H9M46BB2",
+     "cat": "沙发",
+     "brand": "VilroCaz",
+     "rank": 8,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81W+whf2wKL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81bkHr2SDfL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Vexwalx 铝制 L 形 6 座转角组（石墨灰） L 形转角 + 木纹扶手，铝架防锈，6 座围合，转角位不浪费",
+     "price": "$607.99",
+     "link": "",
+     "asin": "B0HM81YRRK",
+     "cat": "沙发",
+     "brand": "Vexwalx",
+     "rank": 9,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/819tfqq+BxL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71DVU-8wWiL._AC_SL1500_.jpg"
+     ]
+    },
+    {
+     "text": "【沙发】Wisteria Lane 加宽金属组（灰） 加宽金属框架 + 厚垫，3 人位 + 2 单椅 + 茶几，承重稳，性价比位",
+     "price": "$429.99",
+     "link": "",
+     "asin": "B0HRYCMNZ4",
+     "cat": "沙发",
+     "brand": "Wisteria",
+     "rank": 10,
+     "design": "",
+     "sell": "",
+     "images": [
+      "https://m.media-amazon.com/images/I/81hiis-E4tL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/714xwtIRzZL._AC_SL1500_.jpg"
+     ]
+    }
+   ],
+   "count": 10,
+   "nChair": 5,
+   "nSofa": 5,
+   "nImg": 20,
+   "note": "今日椅类榜仍被 Papasan 蛋椅、零重力与加热椅占据，非藤编可用款集中在折叠 Adirondack 2 件带脚踏、旋转餐椅 2 件、吧椅 2 件、树脂躺椅 2 件带边几、折叠餐椅 4 件。沙发榜 Wicker/PE Rattan 仍占多数，收铝制 5 件 7 座、铝制 8 件带火盆、相思木 4 件、铝制 L 形 6 座、加宽金属组。已剔除藤编/绳编（含 rope/woven 复验款）、蛋椅、零重力、加热椅、日光浴躺椅、品牌分类页、室内场景、单椅与 1stDibs 二手。"
+  },
   {
    "date": "2026-11-26",
    "items": [
